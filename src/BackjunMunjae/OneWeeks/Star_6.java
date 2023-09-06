@@ -1,6 +1,8 @@
 package BackjunMunjae.OneWeeks;
 
 import java.util.Scanner;
+
+//***** 백준 - No.2675 - *****
 public class Star_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,8 @@
 package BackjunMunjae.OneWeeks;
 
 import java.util.Scanner;
+
+
 public class Star_8 {
     public static void main(String[] args) {
 
